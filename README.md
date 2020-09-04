@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 
 - Active in coding Platforms : 
-   - HackerEarth : [https://www.hackerearth.com/@pawan535] 
-   - HackerRank  : [https://www.hackerrank.com/pawanbisht300]
-   - Leetcode    : [https://leetcode.com/pawan_300/]
-   - Kaggle      : [https://www.kaggle.com/pawan300]
+   - HackerEarth : https://www.hackerearth.com/@pawan535
+   - HackerRank  : https://www.hackerrank.com/pawanbisht300
+   - Leetcode    : https://leetcode.com/pawan_300
+   - Kaggle      : https://www.kaggle.com/pawan300
    
-- 📫 How to reach me: [https://www.linkedin.com/in/pawan-bisht-489280151/] [https://www.instagram.com/pawan_bisht30000/]
+- 📫 How to reach me: 
+   - Linkedin  : https://www.linkedin.com/in/pawan-bisht-489280151/ 
+   - Instagram : https://www.instagram.com/pawan_bisht30000/
 
