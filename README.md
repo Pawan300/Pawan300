@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning : Apache Spark and Deep learning
+- 🌱 I’m currently learning : Apache Spark, Deep learning and Geometric Deep learning(GNN)
 - 👯 I’m looking to collaborate on Data science Projects. (Specially on NLP)
 
 - Active in coding Platforms : 
