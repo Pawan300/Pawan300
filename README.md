@@ -11,8 +11,8 @@
    - <img src="https://pbs.twimg.com/profile_images/1146317507/twitter_400x400.png" width=4% height=4%> : https://www.kaggle.com/pawan300
    
 - 📫 How to reach me: 
-   - Linkedin  : https://www.linkedin.com/in/pawan-bisht-489280151/ 
-   - Instagram : https://www.instagram.com/pawan_bisht30000/
+   - <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" width=4% height=4%>   : https://www.linkedin.com/in/pawan-bisht-489280151/ 
+   - <img src="https://images-na.ssl-images-amazon.com/images/I/71VQR1WetdL.png" width=4% height=4%>  : https://www.instagram.com/pawan_bisht30000/
 
 :trophy: My Github Stats<br><br>
 ![Pawan's github stats](https://github-readme-stats.vercel.app/api?username=pawan300&show_icons=true&theme=cobalt)
