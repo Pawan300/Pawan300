@@ -26,3 +26,7 @@ Here are some ideas to get you started:
    - Linkedin  : https://www.linkedin.com/in/pawan-bisht-489280151/ 
    - Instagram : https://www.instagram.com/pawan_bisht30000/
 
+:trophy: My Github Stats<br>
+![Pawan's github stats](https://github-readme-stats.vercel.app/api?username=pawan300&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan300&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
