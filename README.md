@@ -1,7 +1,7 @@
 ### Hi there.:open_hands: Pawan Bisht this side.:smile:
 
 - 🌱 I’m currently learning : Apache Spark, Deep learning and Geometric Deep learning(GNN)
-- 👯 I’m looking to collaborate on Data science Projects. (Specially on NLP)
+- 👯 I’m looking to collaborate on Data science Projects.
 
 
 - Active in coding Platforms : 
