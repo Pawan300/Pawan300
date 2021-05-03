@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Data science Projects.
 
 
-- Active in coding Platforms : 
+- Was active in coding Platforms : 
    - <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" width=4% height=4%> : https://www.hackerearth.com/@pawan535
    - <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width=4% height=4%>  : https://www.hackerrank.com/pawanbisht300
    - <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png" width=5% height=5%> : https://leetcode.com/pawan_300
