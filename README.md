@@ -1,6 +1,6 @@
 ### Hi there.:open_hands: Pawan Bisht this side.:smile:
 
-- 🌱 I’m currently learning : Deep learning and Geometric Deep learning(GNN)
+- 🌱 I’m currently learning : Deep learning and Natural Language processing aka NLP.
 - 👯 I’m looking to collaborate on Data science Projects.
 
 
