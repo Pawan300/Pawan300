@@ -15,5 +15,5 @@
    - <img src="https://images-na.ssl-images-amazon.com/images/I/71VQR1WetdL.png" width=4% height=4%>  : https://www.instagram.com/pawan_bisht30000/
 
 :trophy: My Github Stats<br><br>
-![Pawan's github stats](https://github-readme-stats.vercel.app/api?username=pawan300&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan300&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Pawan's github stats](https://github-readme-stats.vercel.app/api?username=Pawan300&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan300&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
